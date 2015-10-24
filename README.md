@@ -29,3 +29,6 @@ $ python phrases.py sample.text
 19. 'The Return of The King' -> appears 1 times with weight 5
 20. 'Flew Over The Cuckoo's Nest' -> appears 1 times with weight 5
 ```
+
+## License
+MIT © [peveloper](https://www.github.com/peveloper)
