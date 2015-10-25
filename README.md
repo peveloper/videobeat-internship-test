@@ -1,5 +1,7 @@
 # Phrases
 A simple Python script that shows the 20 most frequently phrases in a text file.
+Results are ordered by weight, which is the product between the phrase's
+frequency and its length.
 
 ## Usage
 ```
