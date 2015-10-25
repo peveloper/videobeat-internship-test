@@ -11,7 +11,6 @@ def group_words(text, group_size):
     word_list = list(map(lambda w: w.strip(string.punctuation), word_list))
     # filter any blank remaining
     word_list = list(filter(None, word_list))
-    # print word_list
     group_list = []
     for k in range(len(word_list)):
         start = k
